@@ -13,7 +13,7 @@ O objetivo deste repositório é práticar uma base de aprendizagem de aplicaç�
 
 ## Projetos
 
-1. **Projeto 1: Sistema de Gerenciamento de Tarefas**
-   - Descrição: Um aplicativo para gerenciar tarefas usando práticas ágeis.
-   - Tecnologias: Java, Spring Boot, MySQL, Hibernate
+1. **Primeiro Projeto: OlaServlet**
+   - Descrição: Criação do primeiro Servlet.
+   - Tecnologias: Java
 
